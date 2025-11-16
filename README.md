@@ -11,9 +11,12 @@ KickStarter for install zapret daemon to EasyWRT routers simply
     curl -L -O [link_to_file]
      
 5. Take execute flag to downloaded file
-     chmod +x [filename]
-6. Start the script ./[filename]
-7. follow the installer's questions and instructions
+
+    chmod +x [filename]
+
+
+7. Start the script ./[filename]
+8. follow the installer's questions and instructions
      All questions of "Y/N" except answer NFQWS method must be default.
-8. At the end of the installation, a health check will be launched on the video segment from youtube.
-9. Install is done 
+9. At the end of the installation, a health check will be launched on the video segment from youtube.
+10. Install is done 
