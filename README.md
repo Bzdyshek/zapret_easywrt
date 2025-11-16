@@ -6,7 +6,9 @@ KickStarter for install zapret daemon to EasyWRT routers simply
       ##### For example     
     ssh -oHostKeyAlgorithms=+ssh-rsa admin@192.168.1.1
 
-3. Download the script using curl to /tmp directory
+   ##### For Windows you can use Putty or BitWiseSSH or use your favorite application.
+
+4. Download the script using curl to /tmp directory
      ##### For example
     curl -L -O [link_to_file]
      
